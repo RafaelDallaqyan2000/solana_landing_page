@@ -1,0 +1,23 @@
+{
+  "title": "Solana Staking Service",
+  "welcome": "Welcome to our Solana Staking Service",
+  "description": "Stake your SOL and earn rewards with our reliable validator.",
+  "services": "Our Services",
+  "stakingService": "Secure and reliable staking of SOL",
+  "rewardCalculation": "Real-time reward calculation",
+  "customerSupport": "24/7 customer support",
+  "aboutUs": "About Us",
+  "mission": "Our Mission",
+  "missionText": "Our mission is to provide a secure and transparent staking service for the Solana community.",
+  "team": "Our Team",
+  "teamMember1": "John Doe - CEO",
+  "teamMember2": "Jane Smith - CTO",
+  "teamMember3": "Alice Johnson - COO",
+  "contactUs": "Contact Us",
+  "name": "Name",
+  "email": "Email",
+  "message": "Message",
+  "send": "Send",
+  "companyName": "Solana Staking Inc.",
+  "companyDescription": "Providing reliable Solana staking services."
+}
