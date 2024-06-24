@@ -1,0 +1,54 @@
+/* styles.css */
+.animatioContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  background-color: #ffffff;
+}
+
+.square1 {
+  width: 100px;
+  height: 100px;
+  background-color: #3388de;
+  animation: animation1 2s linear infinite;
+  border-radius: 15px;
+}
+
+.square2 {
+  width: 100px;
+  height: 100px;
+  background-color: rgb(255, 191, 0);
+  animation: animation2 2s linear infinite;
+  border-radius: 15px;
+}
+
+@keyframes animation1 {
+  0% {
+    transform: translateX(-100%);
+    background-color: rgb(35, 144, 212);
+  }
+  50% {
+    transform: translateX(0);
+    background-color: rgb(255, 191, 0);
+  }
+  100% {
+    transform: translateX(-100%);
+    background-color: rgb(35, 144, 212);
+  }
+}
+
+@keyframes animation2 {
+  0% {
+    transform: translateX(100%);
+    background-color: rgb(255, 191, 0);
+  }
+  50% {
+    transform: translateX(0);
+    background-color: rgb(35, 144, 212);
+  }
+  100% {
+    transform: translateX(100%);
+    background-color: rgb(255, 191, 0);
+  }
+}
